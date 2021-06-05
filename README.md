@@ -1,4 +1,4 @@
-## Realistic-Cape-Mod
+# Realistic-Cape-Mod
 Realistic cape mod for minecraft 1.8.8
 this mod contains optimization problems and drops fps
 ## Credits
